@@ -29,3 +29,7 @@ Test your reflexes in a duel — wait for the signal, then press your key faster
 ## 🚀 Run
 ```bash
 python quick_draw.py
+```
+---
+### 👤 Author
+ Carlos M. González-Fernández
